@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "firebase-tools": "^9.5.0",
     "vue": "^2.6.11",
     "vue-timeago": "^5.1.3"
   },
